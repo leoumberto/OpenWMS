@@ -4,3 +4,8 @@ obj
 
 # mstest test results
 TestResults
+
+# resharper
+_ReSharper.OpenWMS
+
+*.suo
